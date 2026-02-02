@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ash Cellular - Total Wireless Lebanon",
+  "description": "Premium wireless store website for Total Wireless in Lebanon, PA. Features online shopping, delivery, in-store pickup, and an AI-powered customer service chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
